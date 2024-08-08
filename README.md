@@ -1,5 +1,6 @@
 # Clicker-Tap-Mini-App-Code
-https://github.com/TonClicker/Clicker-Tap-Mini-App/blob/main/src/1.png?raw=true
+![1](https://github.com/user-attachments/assets/888ab80f-164a-499f-9e03-0e674f7cc3c6)
+
 
 Clicker Mini App for Telegram - Copy Tapswap, Notcoin, Hamster
 ------------------------------------------------------------------------------
