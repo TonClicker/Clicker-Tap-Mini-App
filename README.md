@@ -8,14 +8,19 @@ We sell clone and customize popular crypto clicker games like Tapswap, Hamster a
 Functions:
 
 🤘 Tap - Click for mine coins
+
 🚀 Boosts - Daily rewards and Boosts
+
 🤝 Referrals - Invite friends and recieve rewards
+
 📝 Tasks - Do tasks and earn points
 
 You are getting:
 
 Admin panel for ease of management
+
 Basic functional (mine-tap / boosts / refferals / tasks)
+
 Source code
 
 Example Clicker
