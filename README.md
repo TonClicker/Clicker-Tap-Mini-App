@@ -8,32 +8,34 @@ We sell Clicker games in Mini App Telegram.
 
 We sell clone and customize popular crypto clicker games like Tapswap, Hamster and Notcoin, or create a hybrid that combines their best features!
 
-Functions:
+# Functions:
 
-🤘 Tap - Click for mine coins
+●🤘 Tap - Click for mine coins
 
-🚀 Boosts - Daily rewards and Boosts
+●🚀 Boosts - Daily rewards and Boosts
 
-🤝 Referrals - Invite friends and recieve rewards
+●🤝 Referrals - Invite friends and recieve rewards
 
-📝 Tasks - Do tasks and earn points
+●📝 Tasks - Do tasks and earn points
 
-You are getting:
+# You are getting:
 
-Admin panel for ease of management
+●Admin panel for ease of management
 
-Basic functional (mine-tap / boosts / refferals / tasks)
+●Basic functional (mine-tap / boosts / refferals / tasks)
 
-Source code
+●Source code
 
-Example Clicker
+# Example Clicker
 
-You can try the starting version of the bot including the basic functionality: https://t.me/clickerw3tap_bot
+●You can try the starting version of the bot including the basic functionality: https://t.me/clickerw3tap_bot
 
-Source code price is $1000 USDC. More details: https://t.me/ClickerCode
+●Source code price is $1000 USDC. More details: https://t.me/ClickerCode
 
-💎 Benefits work with TonClicker:
+# 💎 Benefits work with TonClicker:
 
-We always work for results
-Attention to target audience
-Presence on the most important platforms of the crypto industry
+●We always work for results
+
+●Attention to target audience
+
+●Presence on the most important platforms of the crypto industry
