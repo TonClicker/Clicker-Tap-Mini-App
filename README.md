@@ -30,6 +30,7 @@ You can try the starting version of the bot including the basic functionality: h
 Source code price is $1000 USDC. More details: https://t.me/ClickerCode
 
 💎 Benefits work with TonClicker:
+
 We always work for results
 Attention to target audience
 Presence on the most important platforms of the crypto industry
