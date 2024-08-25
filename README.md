@@ -30,7 +30,7 @@ We sell clone and customize popular crypto clicker games like Tapswap, Hamster a
 
 ●You can try the starting version of the bot including the basic functionality: https://t.me/clickerw3tap_bot
 
-●Source code price is $1000 USDC. More details: https://t.me/ClickerCode
+●Source code price is $1000 USDC. More details: [Clicker Code](https://t.me/ClickerCode).
 
 # 💎 Benefits work with TonClicker:
 
